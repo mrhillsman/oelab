@@ -1,0 +1,3 @@
+[submodule "machines"]
+	path = machines
+	url = git@github.com:mrhillsman/baremetal-upi-sandbox
